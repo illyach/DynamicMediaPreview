@@ -14,6 +14,6 @@ npm run serve
 
 
 <video width="700" height="350" controls>
-  <source src="../public/prewiew.mov" type="video/mp4">
+  <source src="../public/prewiew.mp4" type="video/mp4">
   Ваш браузер не поддерживает тег video.
 </video>
