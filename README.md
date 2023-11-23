@@ -15,5 +15,9 @@ npm run serve
 
 
 
-https://github.com/illyach/DynamicMediaPreview/assets/90748891/9ecde000-dadc-4f45-bebf-81a9d52bfdb0
+https://github.com/illyach/DynamicMediaPreview/assets/90748891/258f7b5f-1497-4b1f-9595-8781014d0ff4
+
+
+
+
 
