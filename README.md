@@ -13,7 +13,7 @@ npm run serve
 ### Dynamic Video Prewiew
 
 
-<video width="700" height="350" controls>
-  <source src="../public/prewiew.mp4" type="video/mp4">
-  Ваш браузер не поддерживает тег video.
-</video>
+
+
+https://github.com/illyach/DynamicMediaPreview/assets/90748891/9ecde000-dadc-4f45-bebf-81a9d52bfdb0
+
